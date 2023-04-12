@@ -1,0 +1,29 @@
+.main {
+    display: flex;
+    margin-left: 200px;
+    margin-top: 200px;
+}
+.div1 {
+    height: 110px;
+    width: 221px;
+    text-align: center;
+    border-bottom: 3px solid #f59e0b;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.div2{
+    height: 110px;
+    width: 221px;
+    text-align: center;
+    border-bottom: 3px solid #14b8a6;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.div3{
+    height: 110px;
+    width: 221px;
+    text-align: center;
+    border-bottom: 3px solid #a855f7;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+div{
+    margin-left: 40px;
+}
